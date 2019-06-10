@@ -1,11 +1,14 @@
 //
+#: "^" indicates a tape I might want to save. "*" indicates one I will
+	definitely save.
 Contents: What I found on tape. Not thoroughly watched, skim large sections.
 			Assumption is that the good stuff will be labeled/not mixed in with
 			random TV stuff.
 On Sleeve: Whats on the Sleeve. Sometimes there's number mismatches, etc.
-On Tape: Whats written on the tape itself.
-In Notebook: What's written in Grandpa Ralph's VHS Catalogs. Currently have only one
-				(Orange) notebook that's missing a lot of entries.
+On Tape: Whats written on the tape itself. Abbreviated. I'll eventually fully record
+			lables of digitally saved tapes.
+In Notebook: What's written in Grandpa Ralph's VHS Catalogs. Abbreviated, see above. 
+				Currently have only one (Orange) notebook that's missing a lot of entries.
 //
 
 1.
