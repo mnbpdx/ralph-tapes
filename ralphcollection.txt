@@ -1,3 +1,13 @@
+//
+Contents: What I found on tape. Not thoroughly watched, skim large sections.
+			Assumption is that the good stuff will be labeled/not mixed in with
+			random TV stuff.
+On Sleeve: Whats on the Sleeve. Sometimes there's number mismatches, etc.
+On Tape: Whats written on the tape itself.
+In Notebook: What's written in Grandpa Ralph's VHS Catalogs. Currently have only one
+				(Orange) notebook that's missing a lot of entries.
+//
+
 1.
 Contents: JFK History, South Africa
 On Sleeve: 1
@@ -11,7 +21,7 @@ On Tape: #2 Political Campaigns, FF To End
 In Notebook: No Entry
 
 3.
-Contents: News, Appears to reflect notes On Tape
+Contents: News, Appears to reflect On Tape
 On Sleeve: 3
 On Tape: 3 --(Videotape of students)-- Obama to Mulsims,
 		Obama on Healthcare ca. 2009
@@ -24,7 +34,7 @@ On Tape: Toy Story
 In Notebook: No Entry
 
 5.
-Contents: Pres. bios, Seems to reflect On Tape
+Contents: Pres. bios, Appears to reflect On Tape/Notebook
 On Sleeve: 5
 On Tape: Biography, Sherman, Eisenhower, TR, etc
 In Notebook: (Orange) Pres. bios, Seems to reflect On Tape
@@ -47,53 +57,54 @@ On Sleeve: 8
 On Tape: 8, 1st Ammendment
 In Notebook: 
 
-9.
-Contents: 
-On Sleeve:
-On Tape:
-In Notebook:
+^9.
+Contents: News, Columbo, Documentary (Tootsie may be elsewhere on tape?)
+On Sleeve: No Sleeve
+On Tape: Tootsie
+In Notebook: No Entry
 
-10.
-Contents: 
-On Sleeve:
-On Tape:
-In Notebook:
+*10.
+Contents: Ralph Weight Loss (70 by 70) on Local News
+On Sleeve: 10
+On Tape: Mark-Ralph, TLC-2 LBJ + Vietnam
+In Notebook: No Entry
 
 11.
-Contents: 
-On Sleeve:
-On Tape:
-In Notebook:
+Contents: Appears to reflect On Tape
+On Sleeve: No Sleeve
+On Tape: Mex/Amer War, God's Chr. Warriors, Billy Graham History
+In Notebook: No Entry
 
-12.
-Contents: 
-On Sleeve:
-On Tape:
-In Notebook:
+^12.
+Contents: Jessie Jackson on SNL, Medical Drama?, Doc on BBC Radio ...
+On Sleeve: No Sleeve
+On Tape: 12
+In Notebook: No Entry
 
-13.
-Contents: 
-On Sleeve:
-On Tape:
-In Notebook:
+*13.
+Contents: Clinton Visit, Campaign '96 CSPAN, Appears to Reflect Notebook
+On Sleeve: 13
+On Tape: 13
+In Notebook: Pres. Clinton Oregon Visit. Ralph in On the Street Interviews 1:11,
+			Republican Conventions
 
 14.
-Contents: 
-On Sleeve:
-On Tape:
-In Notebook:
+Contents: Appears to reflect On Tape
+On Sleeve: 14
+On Tape: Election 2000 Review, CWJ Lives of Soldiers, Pal. Sucide Bomber
+In Notebook: No Entry
 
 15.
-Contents: 
-On Sleeve:
+Contents: MISSING
+On Sleeve: 
 On Tape:
 In Notebook:
 
 16.
-Contents: 
-On Sleeve:
-On Tape:
-In Notebook:
+Contents: Louisiana Purchase Doc, 
+On Sleeve: 16
+On Tape: --(Ted Koppel - Children, Lemon Tree)-- Lou Purchase, L+L
+In Notebook: No Entry
 
 17.
 Contents: 
